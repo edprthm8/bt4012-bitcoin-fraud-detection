@@ -1,6 +1,6 @@
 # Fraudulent Bitcoin Transaction Detection
 
-**Student ID:** e1351028 / A0296890J
+**Student ID:** e1351028 / A0296890J \
 **Name:** `Edbert Prathama`  
 **Notebook File:** `e1351028.ipynb`  
 
