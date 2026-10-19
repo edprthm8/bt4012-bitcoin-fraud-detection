@@ -1,6 +1,6 @@
 # Fraudulent Bitcoin Transaction Detection
 
-**Student ID:** e1351028  
+**Student ID:** e1351028 / A0296890J
 **Name:** `Edbert Prathama`  
 **Notebook File:** `e1351028.ipynb`  
 
@@ -11,7 +11,7 @@
 Follow these steps to run the `e1351028.ipynb` notebook directly in Jupyter Notebook or VS Code.
 
 ### 1. Place the Dataset in the Root Folder
-Before opening the notebook, we must place the competition dataset files in the exact same folder as `e1351028.ipynb`. Ensure these three files are present:
+Before opening the notebook, we must place the competition dataset files in the same folder as `e1351028.ipynb`. Ensure these three files are present:
 - `train.csv`
 - `test.csv`
 - `txs_edgelist.csv`
