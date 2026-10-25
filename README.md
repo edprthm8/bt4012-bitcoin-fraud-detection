@@ -2,16 +2,18 @@
 
 **Student ID:** e1351028  
 **Name:** `Edbert Prathama`  
-**Notebook File:** `e1351028.ipynb`  
+**Notebook File:** `e1351028_main.ipynb` and `e1351028_secondary.ipynb`  
 
 ---
 
 ## How to Run the Notebook
 
-Follow these steps to run the `e1351028.ipynb` notebook directly in VS Code or Jupyter Notebook.
+Follow these steps to run the either of the notebook directly in VS Code or Jupyter Notebook. 
+
+NOTE: The `_main` notebook produced my best score, and the `_secondary` produced my second best score.
 
 ### 1. Place the Dataset in the Root Folder
-Before opening the notebook, ensure the dataset files are placed in the exact same folder as `e1351028.ipynb`. Ensure these three files are present:
+Before opening the notebook, ensure the dataset files are placed in the exact same folder as the notebook. Ensure these three files are present:
 - `train.csv`
 - `test.csv`
 - `txs_edgelist.csv`
