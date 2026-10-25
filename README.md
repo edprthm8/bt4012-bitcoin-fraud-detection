@@ -25,6 +25,6 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the Notebook
-1. Open `e1351028.ipynb` using **VS Code** or **Jupyter Notebook**.
+1. Open the notebook using **VS Code** or **Jupyter Notebook**.
 2. Click "Run All" in VS Code to run the whole notebook. 
 3. The notebook will process the data and generate the final `e1351028.csv` predictions in the same folder.
